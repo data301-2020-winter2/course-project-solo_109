@@ -9,7 +9,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-The dataset I chose contains specs of ~3.3k Graphics Cards (GPUs) developed by AMD & NVIDIA. 
+The dataset I chose contains specs of ~3.3k Graphics Cards (GPUs) developed by **AMD** & **NVIDIA**. 
 Computer technology has been a passion of mine as far as I can remember. One thing that amazed me as I was growing up was the blazing speed that graphics in
 video games was improving at. Things such as soft shadows, more complex geometry (polygons to much denser shapes), realistic lighting/shaders, etc, all changed 
 the gaming industry. CGI also benefitted hugely from the massive amount of compute power that each generation of GPUs brought. Recently, the enabling of RTX (Ray-Tracing)
@@ -23,7 +23,7 @@ Release Date and Release Price will all be used to gauge performance gains betwe
 
 ## Team Members
 
-- Colin Pereira: Hello, I'm the single member of this solo group. Welcome to [Project Name]!
+- *Colin Pereira*: Hello, I'm the single member of this solo group. Welcome to [Project Name]!
 
 
 ## References

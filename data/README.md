@@ -1,6 +1,6 @@
 # Data Info
 
-- This README.md is where I'll describe the purpose of the Data directory.
+- This *README.md* is where I'll describe the purpose of the Data directory.
 
 ## Description
 
