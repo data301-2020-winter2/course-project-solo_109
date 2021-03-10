@@ -26,5 +26,9 @@ def load_clean(path_or_url):
     move_name = 'Name'
     to_first = gpu_df_end.pop(move_name)
     gpu_df_end.insert(0, move_name, to_first)
+    gpu_df_end.rename({'Name': 'GPU Name', 'Memory_Speed': 'Clock Speed', 'Direct_X': 'DirectX', 'L2_Cache': 'Cache', 'Max_Power': 'Power Consumption', 'Memory_Bandwidth': 'Bandwidth', 'Memory_Bus': 'Memory Bus', 'Memory_Type': 'Memory Type', 'Pixel_Rate': 'Pixel Speed', 'Release_Date': 'Release Date', 'Release_Price': 'Release Price', 'Texture_Rate': 'Texture Rate'}, axis = 1, inplace = True)
+    gpu_df_end.replace({"Jan": "01", "Feb": "02", "Mar": "03", "Apr": "04", "May": "05", "Jun": "06", "Jul": "07", "Aug": "08", "Sep": "09", "Oct": "10", "Nov": "11", "Dec": "12"}, regex = True, inplace = True)
+    gpu_df_end.replace({"-": "/"}, regex = True, inplace = True)
+    gpu_df_end.replace({"DX ": "", "0a": "0", "0b": "0", "0c": "0"}, regex  = True, inplace = True)
     
     return(gpu_df_end)
