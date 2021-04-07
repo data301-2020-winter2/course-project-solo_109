@@ -25,6 +25,10 @@ Release Date and Release Price will all be used to gauge performance gains betwe
 
 - *Colin Pereira*: Hello, I'm the single member of this solo group. Welcome to [Project Name]!
 
+## Dashboard
+
+[[Click Here](https://us-west-2b.online.tableau.com/#/site/data301/workbooks/345431/views)] to View my Dashboard.
+
 
 ## References
 
