@@ -29,6 +29,10 @@ Release Date and Release Price will all be used to gauge performance gains betwe
 
 [[Click Here](https://us-west-2b.online.tableau.com/#/site/data301/workbooks/345431/views)] to View my Dashboard.
 
+## Dashboard Presentation
+
+[[Click Here](https://www.youtube.com/watch?v=PyJcEB-l3zY)] to view my Dashboard Presentation
+
 
 ## References
 
